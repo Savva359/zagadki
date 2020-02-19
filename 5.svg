@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg data-name="Ebene 1" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="d">
+   <circle cx="400" cy="400" r="400" fill="none"/>
+  </clipPath>
+  <linearGradient id="c" x1="397.85" x2="151.35" y1="400.85" y2="647.35" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g clip-path="url(#d)">
+  <circle cx="400" cy="400" r="400" fill="#1c8adb"/>
+  <path d="m255.89 782.89 311.34-311.34c22.908-22.6 36.386-50.258 36.386-80.132 0-76.303-87.909-138.16-196.35-138.16-66.318 0-124.95 23.137-160.5 58.561l-228.97 228.97c40.799 114.55 119.23 196.07 238.1 242.1z" fill="url(#c)" opacity=".42"/>
+  <path d="m407.27 253.27c-108.44 0-196.35 61.855-196.35 138.16 0 24.144 8.8113 46.838 24.281 66.587l-38.817 88.724 93.991-44.302c32.659 17.055 73.101 27.148 116.9 27.148 108.44 0 196.35-61.855 196.35-138.16s-87.909-138.16-196.35-138.16z" fill="#fff"/>
+ </g>
+</svg>

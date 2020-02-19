@@ -1,0 +1,46 @@
+@font-face{
+font-family: 'Comfortaa';
+src: url('Comfortaa.ttf');
+font-weight: normal;
+font-style: normal;
+}
+
+body, html{
+margin: 0;
+font-family: 'Comfortaa';
+height: 94%;
+}
+
+.niz{
+background: rgb(40,40,40,.9);
+height: 80px;
+color: #fff;
+vertical-align: middle;
+font-size: large;
+margin-top: 20px;
+}
+
+.hr{
+width: 70%;
+height: 2px;
+background: rgb(207,207,207,.6);
+border: none;
+border-radius: 100px;
+}
+
+div.block{
+font-size: x-large;
+margin-top: 30px;
+margin-left: 20px;
+margin-right: 20px;
+}
+
+div.theme{
+width: 500px;
+height: 50px;
+background: rgb(244,196,48,.7);
+border-bottom-right-radius: 10000px;
+font-size: xx-large;
+text-align: right;
+padding-right: 40px;
+}
